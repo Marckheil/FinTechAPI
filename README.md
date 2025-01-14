@@ -43,20 +43,19 @@ _Backend_
 
 _Installation_
 
-	1.	Clone the repository:
-
-git clone https://github.com/yourusername/finance-tools.git
+	1.	Clone the repository: git clone https://github.com/yourusername/finance-tools.git
 
 
-	2.	Navigate to the project directory:
-
-cd finance-tools
 
 
-	3.	Install dependencies:
+	2.	Navigate to the project directory: cd finance-tools
 
-npm install       # For frontend
-pip install -r requirements.txt  # For backend
+
+
+	3.	Install dependencies: npm install       # For frontend    pip install -r requirements.txt  # For backend
+ 
+
+
 
 
 
@@ -67,21 +66,19 @@ pip install -r requirements.txt  # For backend
 POLYGON_API_KEY=your_api_key_here
 
 
-	3.	Start the backend server:
-
-python app.py
+	3.	Start the backend server: python app.py
 
 
-	4.	Start the frontend:
+	4.	Start the frontend: npm start
 
-npm start
+**Usage**
 
-Usage
-	1.	Stock Price Comparison:
+1.	Stock Price Comparison:
 	•	Navigate to the “Compare Stocks” page.
 	•	Enter stock symbols to visualize trends.
 	•	Learn through tooltips explaining financial concepts.
-	2.	Portfolio Tracker:
+
+ 2.	Portfolio Tracker:
 	•	Go to the “My Portfolio” page.
 	•	Input holdings with purchase price and quantity.
 	•	View real-time performance and diversification insights.
