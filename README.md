@@ -4,6 +4,8 @@
 
 **README for Financial Education Tools Using Polygon.io API**
 
+Link to [Link Text](https://polygon.io/)
+
 Stock Price Comparison Tool & Portfolio Tracker
 
 This project provides users with tools to visualize stock trends and track portfolio performance in real-time while educating them on fundamental financial concepts. Powered by the Polygon.io API, the tools deliver dynamic, data-driven insights in an intuitive interface.
