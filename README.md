@@ -2,7 +2,7 @@
 
 > Your ultimate tool for financial education and tracking investments!
 
-README for Financial Education Tools Using Polygon.io API
+**README for Financial Education Tools Using Polygon.io API**
 
 Stock Price Comparison Tool & Portfolio Tracker
 
