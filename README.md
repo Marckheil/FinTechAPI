@@ -4,7 +4,7 @@
 
 **README for Financial Education Tools Using Polygon.io API**
 
-Link to [Link Text](https://polygon.io/)
+Link to [Polygon API](https://polygon.io/)
 
 Stock Price Comparison Tool & Portfolio Tracker
 
