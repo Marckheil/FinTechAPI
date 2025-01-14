@@ -1,7 +1,5 @@
 ### FinTechAPI
 
-![FinTechAPI](https://via.placeholder.com/800x200?text=FinTechAPI+Banner)
-
 > Your ultimate tool for financial education and tracking investments!
 
 README for Financial Education Tools Using Polygon.io API
