@@ -2,15 +2,15 @@
 
 > Your ultimate tool for financial education and tracking investments!
 
-**README for Financial Education Tools Using Polygon.io API**
+**README for Wealthify, an app utilizing Polygon.io API**
 
 Link to [Polygon API](https://polygon.io/)
 
-Stock Price Comparison Tool & Portfolio Tracker
+**<ins>Financial Literacy Tool and Portfolio Tracker</ins>**
 
 This project provides users with tools to visualize stock trends and track portfolio performance in real-time while educating them on fundamental financial concepts. Powered by the Polygon.io API, the tools deliver dynamic, data-driven insights in an intuitive interface.
 
-**Features**
+**<ins>Features</ins>**
 
 _Stock Price Comparison Tool_
 	•	Real-Time & Historical Data: Fetch real-time and past stock prices to analyze performance.
@@ -35,7 +35,7 @@ _Learning Modules_
 
  
 
-**Technical Overview**
+**<ins>Technical Overview</ins>**
 
 _Frontend_
 	•	Framework: React.js
@@ -54,39 +54,9 @@ _Backend_
 
  
 
-**Getting Started**
-
-_Installation_
-
-	1.	Clone the repository: git clone https://github.com/yourusername/finance-tools.git
 
 
-
-
-	2.	Navigate to the project directory: cd finance-tools
-
-
-
-	3.	Install dependencies: npm install       # For frontend    pip install -r requirements.txt  # For backend
- 
-
-
-
-
-
-**Setup**
-	1.	Sign up at Polygon.io and get your API key.
-	2.	Create a .env file in the backend directory and add your API key:
-
-POLYGON_API_KEY=your_api_key_here
-
-
-	3.	Start the backend server: python app.py
-
-
-	4.	Start the frontend: npm start
-
-**Usage**
+**<ins>Usage</ins>**
 
 1.	Stock Price Comparison:
 	•	Navigate to the “Compare Stocks” page.
@@ -100,7 +70,7 @@ POLYGON_API_KEY=your_api_key_here
 
 
 
-**Contributing**
+**<ins>Contributions</ins>**\
 
 We welcome contributions to enhance features or add new educational modules. Please open a pull request or submit an issue for discussion.
 
