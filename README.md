@@ -1,4 +1,4 @@
-# Hemlock-Holm
+# Wealthify
 
 > Your ultimate tool for financial education and tracking investments!
 
