@@ -1,4 +1,4 @@
-### FinTechAPI
+# Hemlock-Holm
 
 > Your ultimate tool for financial education and tracking investments!
 
