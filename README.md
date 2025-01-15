@@ -70,13 +70,12 @@ _Backend_
 
 
 
-**<ins>Contributions</ins>**\
+**<ins>Contributions</ins>**
 
 We welcome contributions to enhance features or add new educational modules. Please open a pull request or submit an issue for discussion.
 
 
 
-**License**
+**URV**
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+This project is one of the many from  an API Study Undergraduate Research Volunteering program at the Unviersity of Massachusetts Amherst. Upon completion, a feasibility study will be performed to see the efficiency of the finished products. 
