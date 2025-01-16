@@ -8,7 +8,7 @@
 
 **<ins>Financial Literacy Tool and Portfolio Tracker</ins>**
 
-This project provides users with tools to visualize stock trends and track portfolio performance in real-time while educating them on fundamental financial concepts. Powered by the Polygon.io API, the tools deliver dynamic, data-driven insights in an intuitive interface.
+Wealthify provides users with tools to visualize stock trends and track portfolio performance in real-time while educating them on fundamental financial concepts. Powered by the Polygon.io API, the tools deliver dynamic, data-driven insights in an intuitive interface.
 
  ## 📊Features 
 
@@ -68,6 +68,28 @@ _Learning Modules_
 	•	Input holdings with purchase price and quantity.
 	•	View real-time performance and diversification insights.
 
+## 📖Wiki
+🔗Link to [Polygon API Docs]([https://polygon.io/](https://polygon.io/docs/stocks))
+
+
+### Example Response Attributes: 
+1. afterHoursnumber
+	-The close price of the ticker symbol in after hours trading.
+
+2. close*number
+	-The close price for the symbol in the given time period.
+
+3. from*string
+	-The requested date.
+
+4. high*number
+	-The highest price for the symbol in the given time period.
+
+5. low*number
+	-The lowest price for the symbol in the given time period.
+
+6. open*number
+	-The open price for the symbol in the given time period.
 
 
 ## 🫂Contributions
@@ -79,3 +101,8 @@ We welcome contributions to enhance features or add new educational modules. Ple
 ## 🏫URV
 
 This project is one of the many from  an API Study Undergraduate Research Volunteering program at the Unviersity of Massachusetts Amherst. Upon completion, a feasibility study will be performed to see the efficiency of the finished products. 
+
+## 👨 Author
+Author- Don Marckheil Desmond
+- 🔗Linkedin [Account](https://www.linkedin.com/in/don-marckheil-desmond-37952827a/)
+- Email: dmarckheil@gmail.com
