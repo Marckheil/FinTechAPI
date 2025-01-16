@@ -4,13 +4,13 @@
 
 **README for Wealthify, an app utilizing Polygon.io API**
 
-Link to [Polygon API](https://polygon.io/)
+🔗Link to [Polygon API](https://polygon.io/)
 
 **<ins>Financial Literacy Tool and Portfolio Tracker</ins>**
 
 This project provides users with tools to visualize stock trends and track portfolio performance in real-time while educating them on fundamental financial concepts. Powered by the Polygon.io API, the tools deliver dynamic, data-driven insights in an intuitive interface.
 
-📊 **<ins>Features</ins>**
+ ## 📊Features 
 
 _Stock Price Comparison Tool_
 		•		Real-Time & Historical Data: Fetch real-time and past stock prices to analyze performance.
@@ -35,16 +35,16 @@ _Learning Modules_
 
  
 
-🔧**<ins>Technical Overview</ins>**
+## Technical Overview🔧
 
-_Frontend_
+1.	_Frontend_
 	•	Framework: React.js
 	•	Visualization Tools: Chart.js or D3.js for dynamic, visually appealing charts.
 	•	Responsive Design: Built with Material-UI or Tailwind CSS for a seamless experience across devices.
 
  
 
-_Backend_
+2.	_Backend_
 	•	Framework: Flask (Python) or Express.js (Node.js).
 	•	Database: SQLite or MongoDB for storing user portfolios and preferences.
 	•	API Integration: Fetch data using Polygon.io API endpoints:
@@ -56,7 +56,7 @@ _Backend_
 
 
 
-✏️**<ins>Usage</ins>**
+## ✏️API Capabilities
 
 1.	Stock Price Comparison:
 	•	Navigate to the “Compare Stocks” page.
@@ -70,12 +70,12 @@ _Backend_
 
 
 
-**<ins>Contributions</ins>**
+## 🫂Contributions
 
 We welcome contributions to enhance features or add new educational modules. Please open a pull request or submit an issue for discussion.
 
 
 
-**URV**
+## 🏫URV
 
 This project is one of the many from  an API Study Undergraduate Research Volunteering program at the Unviersity of Massachusetts Amherst. Upon completion, a feasibility study will be performed to see the efficiency of the finished products. 
