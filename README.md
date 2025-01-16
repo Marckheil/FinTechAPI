@@ -35,7 +35,7 @@ _Learning Modules_
 
  
 
-## Technical Overview🔧
+## 🔧Technical Overview
 
 1.	_Frontend_
 	•	Framework: React.js
@@ -58,18 +58,18 @@ _Learning Modules_
 
 ## ✏️API Capabilities
 
-1.	Stock Price Comparison:
+1.	_Stock Price Comparison:_
 	•	Navigate to the “Compare Stocks” page.
 	•	Enter stock symbols to visualize trends.
 	•	Learn through tooltips explaining financial concepts.
 
- 2.	Portfolio Tracker:
+ 2.	_Portfolio Tracker:_
 	•	Go to the “My Portfolio” page.
 	•	Input holdings with purchase price and quantity.
 	•	View real-time performance and diversification insights.
 
 ## 📖Wiki
-🔗Link to [Polygon API Docs]([https://polygon.io/](https://polygon.io/docs/stocks))
+🔗Link to [Polygon API Docs](https://polygon.io/docs/stocks/getting-started)
 
 
 ### Example Response Attributes: 
