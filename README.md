@@ -1,4 +1,4 @@
-# Wealthify
+#  💴 Wealthify 
 
 > Your ultimate tool for financial education and tracking investments!
 
@@ -10,13 +10,13 @@ Link to [Polygon API](https://polygon.io/)
 
 This project provides users with tools to visualize stock trends and track portfolio performance in real-time while educating them on fundamental financial concepts. Powered by the Polygon.io API, the tools deliver dynamic, data-driven insights in an intuitive interface.
 
-**<ins>Features</ins>**
+📊 **<ins>Features</ins>**
 
 _Stock Price Comparison Tool_
-	•	Real-Time & Historical Data: Fetch real-time and past stock prices to analyze performance.
-	•	Visualizations: Compare multiple stocks through interactive charts.
-	•	Technical Indicators: Overlay trendlines such as SMA and RSI for deeper insights.
-	•	Educational Content: Teach users how to interpret stock data (e.g., candlesticks, moving averages).
+		•		Real-Time & Historical Data: Fetch real-time and past stock prices to analyze performance.
+		•		Visualizations: Compare multiple stocks through interactive charts.
+		•		Technical Indicators: Overlay trendlines such as SMA and RSI for deeper insights.
+		•		Educational Content: Teach users how to interpret stock data (e.g., candlesticks, moving averages).
 
  
 
@@ -35,7 +35,7 @@ _Learning Modules_
 
  
 
-**<ins>Technical Overview</ins>**
+🔧**<ins>Technical Overview</ins>**
 
 _Frontend_
 	•	Framework: React.js
@@ -56,7 +56,7 @@ _Backend_
 
 
 
-**<ins>Usage</ins>**
+✏️**<ins>Usage</ins>**
 
 1.	Stock Price Comparison:
 	•	Navigate to the “Compare Stocks” page.
